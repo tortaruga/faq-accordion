@@ -18,7 +18,6 @@ buttons.forEach(btn => {
         if (e.key === 'Enter') {
             e.preventDefault();
             handleFAQ(btn)
-            // console.log('hello')
         }           
     })
 })

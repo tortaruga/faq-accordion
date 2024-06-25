@@ -24,7 +24,6 @@ body {
     background-color: var(--light-pink);
     font-family: 'work sans';
     color: var(--grayish-purple);
-    font-size: .93rem;
 }
 
 main {
@@ -51,6 +50,10 @@ main {
     box-shadow: 0 5px 120px hsl(292, 42%, 14%, .2);
 }
 
+.question {
+    border-bottom: 1px solid var(--light-pink);
+}
+
 h1 {
     display: flex;
     align-items: center;
@@ -62,6 +65,12 @@ h1 {
 
 h1, h2 {
     color: var(--dark-purple);
+}
+
+h2:hover {
+    color: rgb(185, 0, 231);
+    cursor: pointer;
+
 }
 
 h2 {
