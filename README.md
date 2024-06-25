@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/Screenshot%202024-06-25%20at%2016-41-39%20Frontend%20Mentor%20FAQ%20accordion.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://tortaruga.github.io/faq-accordion/](https://tortaruga.github.io/faq-accordion/)
 
 ## My process
 
