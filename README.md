@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-0KAjv0-6Xf](https://www.frontendmentor.io/solutions/faq-accordion-0KAjv0-6Xf)
 - Live Site URL: [https://tortaruga.github.io/faq-accordion/](https://tortaruga.github.io/faq-accordion/)
 
 ## My process
